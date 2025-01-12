@@ -14,5 +14,4 @@ My name is Griguer Nathan <br>I live in Marseille, France<br>I'm currently in fi
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://twitter.com/nathan_grgr" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 <a target="_blank" href="https://www.instagram.com/nathan_grgr" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
-<a target="_blank" href="https://codesandbox.com/u/https://codesandbox.io/u/nathangrgr" style="display: inline-block;"><img src="https://img.shields.io/badge/codesandbox?style=for-the-badge&logo=codesandbox&logoColor=white&color=black" alt="codesandbox" /></a>
 <a target="_blank" href="https://www.youtube.com/https://www.youtube.com/@nath_0625" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
